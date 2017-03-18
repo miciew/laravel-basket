@@ -1,5 +1,5 @@
 {
-    "name": "miciew/laravel-basket",
+    "name": "miciew/laravel-shop",
     "description": "Корзина для магазина на Laravel 5.4 ",
     "keywords": ["laravel", "cart", "basket", "shop", "корзина" ],
     "type": "laravel-package",
