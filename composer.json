@@ -1,0 +1,24 @@
+{
+    "name": "miciew/laravel-basket",
+    "description": "Корзина для магазина на Laravel 5.4 ",
+    "keywords": ["laravel", "cart", "basket", "shop", "корзина" ],
+    "type": "laravel-package",
+    "authors": [
+        {
+            "name": "Miciew Islam",
+            "email": "m-islam@rambler.ru"
+        }
+    ],
+    "require":
+    {
+        "php": ">=5.6.4",
+        "laravel/framework": "5.4.*"
+    },
+    "autoload":
+    {
+        "psr-4":
+        {
+            "Miciew\\Shop\\Basket\\": "src"
+        }
+    }
+}
